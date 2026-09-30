@@ -13,6 +13,17 @@ Sección pública de apoyo docente.
 - Notas operativas por práctica
 - Historial de cambios de cursada
 
+## Nota pedagógica clave
+
+En las páginas de experimentos, la guía no debe convertirse en una “receta” de laboratorio. La intención docente es:
+
+- describir el fenómeno físico y su contexto experimental,
+- presentar objetivos de aprendizaje,
+- aportar preguntas orientadoras,
+- incentivar que estudiantes propongan/diseñen el experimento y su estrategia de medición.
+
+Cuando exista guía de práctica, la prioridad de migración es **migrar su contenido completo y fiel**.
+
 ## Material inicial
 
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Checklist informe](http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/07/checklist-informe.pdf)
