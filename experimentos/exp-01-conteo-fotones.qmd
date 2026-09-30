@@ -1,0 +1,22 @@
+---
+title: "Experimento 1 — Conteo de fotones"
+---
+
+## Resumen
+Medición de estadísticas de conteo de fotones con PMTs.
+
+## Recursos
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía de la práctica](http://materias.df.uba.ar/l5a2023c1/files/2012/07/guia_conteo.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Info sobre conteo con PMTs](http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/09/PMT_photoncounting.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [Paper Martinez Ricci et al.](http://users.df.uba.ar/bragas/Labo5_1er2011/MartinezRicci_photoncountingoscilloscope_AmJPhys_75_707_2007.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [Paper Koczyk et al.](http://users.df.uba.ar/bragas/Labo5_1er2011/Koczyk_photon%20counting%20statistics_AmJPhys_64_241_1996.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [Hoja de datos PMT 1P28](http://materias.df.uba.ar/l5a2023c1/files/2012/07/1P28.pdf)
+
+## Seguridad asociada
+
+- [Normas generales de laboratorio](http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf)
+- [Seguridad en radiación (si se usa fuente)](http://materias.df.uba.ar/l5a2023c1/files/2023/03/SeguridadRadiacion.pdf)
+
+## Fuente original
+Ver inventario en `materials/_index/sources_manifest_guias.csv`.

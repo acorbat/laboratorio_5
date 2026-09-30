@@ -1,0 +1,29 @@
+---
+title: "Laboratorio 5"
+---
+
+Bienvenidos al sitio de **Laboratorio 5**.
+
+Este sitio centraliza material para estudiantes y docentes:
+
+- [Experimentos](experimentos/index.qmd)
+- [Seguridad](seguridad/index.qmd)
+- [Material adicional](material-adicional/index.qmd)
+- [Manuales](manuales/index.qmd)
+- [Estado de materiales](estado-materiales/index.qmd)
+
+## Estado actual
+
+- Primera versión funcional en construcción.
+- Inventario de fuentes disponible en `materials/_index/`.
+- Enlaces rotos se listan explícitamente para seguimiento.
+
+## Política de contenido
+
+- Idioma principal: español.
+- Algunas fuentes originales están en inglés.
+- Tesis y papers están incluidos en material para estudiantes.
+
+::: {.small-muted}
+Última actualización de inventario: revisar `materials/_index/materials_summary.md`.
+:::

@@ -1,0 +1,18 @@
+---
+title: "Seguridad"
+---
+
+Material obligatorio de seguridad para cursar Laboratorio 5.
+
+## Documentos
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Normas generales para usar sustancias radiactivas](http://materias.df.uba.ar/l5a2023c1/files/2023/03/Normas-generales-para-usar-sustancias-radiactivas.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Seguridad en radiación](http://materias.df.uba.ar/l5a2023c1/files/2023/03/SeguridadRadiacion.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Normas de seguridad clase IV (láser)](http://materias.df.uba.ar/l5a2023c1/files/2023/03/Normas-de-Seg-Clase-IV1.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Seguridad láser](http://materias.df.uba.ar/l5a2023c1/files/2023/03/Laserseguridad1.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Normas Lab Superiores](http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [SegLabQyB Alumnos](http://materias.df.uba.ar/l5a2023c1/files/2023/03/SegLabQyBAlumnos1.pdf)
+
+## Recomendación
+
+Leer esta sección antes de iniciar cualquier práctica.

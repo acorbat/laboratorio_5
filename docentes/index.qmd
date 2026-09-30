@@ -1,0 +1,19 @@
+---
+title: "Docentes"
+---
+
+Sección pública de apoyo docente.
+
+> Esta ruta **no debe figurar en la navegación principal para estudiantes**.
+
+## Contenido previsto
+
+- Criterios de evaluación
+- Checklists de informes
+- Notas operativas por práctica
+- Historial de cambios de cursada
+
+## Material inicial
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Checklist informe](http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/07/checklist-informe.pdf)
+

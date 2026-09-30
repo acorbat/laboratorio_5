@@ -2,10 +2,22 @@
 
 Este plan está orientado a ejecución por agentes de AI.
 
+## FASE 0 — Bootstrap Quarto + GitHub Pages
+
+- [x] Definir Quarto como stack del sitio.
+- [x] Crear `_quarto.yml` con navegación base y `output-dir: docs`.
+- [x] Crear páginas base `.qmd` (inicio, secciones y experimentos).
+- [x] Definir estilos mínimos (`styles.css`) para badges/avisos.
+- [x] Crear workflow de despliegue a GitHub Pages.
+- [ ] Verificar despliegue en GitHub Pages (sin render local obligatorio) y corregir warnings reportados por CI.
+
+---
+
 ## FASE 1 — Sitio funcionando (MVP publicable)
 
 ### A. Inventario y estado real del contenido
 - [ ] Consolidar inventario desde manifests (`guias`, `seguridad`, `parciales`).
+- [ ] Priorizar enlaces externos en la web MVP (por política temporal de no versionar `*.pdf`/`*.zip`).
 - [ ] Marcar cada recurso con metadata:
   - [ ] tipo (`guía`, `manual`, `paper`, `tesis`, `seguridad`, `adicional`)
   - [ ] estado (`local`, `externo`, `roto`)
@@ -19,17 +31,17 @@ Este plan está orientado a ejecución por agentes de AI.
 ---
 
 ### B. Completar páginas mínimas necesarias
-- [ ] Página `Inicio` con acceso a: Experimentos, Seguridad, Material adicional, Manuales.
-- [ ] Página índice de `Experimentos` con cards y links.
-- [ ] Página por experimento (mínimo viable):
-  - [ ] resumen corto
-  - [ ] links a guía(s) PDF
-  - [ ] manuales/equipo
-  - [ ] papers/tesis (visibles para estudiantes)
-  - [ ] seguridad relevante
-- [ ] Página `Seguridad` separada y priorizada.
-- [ ] Página `Material adicional` separada con indicadores de link roto.
-- [ ] Página `/docentes` pública, pero **sin enlace en navegación principal**.
+- [x] Página `Inicio` con acceso a: Experimentos, Seguridad, Material adicional, Manuales.
+- [x] Página índice de `Experimentos` con links.
+- [x] Página por experimento (mínimo viable):
+  - [x] resumen corto
+  - [x] links a guía(s) PDF
+  - [x] manuales/equipo
+  - [x] papers/tesis (visibles para estudiantes)
+  - [x] seguridad relevante
+- [x] Página `Seguridad` separada y priorizada.
+- [x] Página `Material adicional` separada con indicadores de link roto.
+- [x] Página `/docentes` pública, pero **sin enlace en navegación principal**.
 
 **Agente sugerido:** `agent-page-builder`  
 **DoD:** rutas navegables sin 404 internos.
@@ -51,10 +63,15 @@ Este plan está orientado a ejecución por agentes de AI.
 - [ ] Validar navegación de estudiante (flujo completo).
 - [ ] Validar clasificación de material con criterio docente.
 - [ ] Revisar links rotos críticos (guías/seguridad).
+- [x] Preparar despliegue en GitHub Pages:
+  - [x] confirmar estructura estática compatible (`index.html`/ruta base),
+  - [x] verificar rutas relativas de assets y páginas,
+  - [x] definir estrategia de publicación (`main/docs`).
+- [x] Agregar workflow de publicación automática (opcional en v1, recomendado).
 - [ ] Publicar `v1.0` con changelog inicial.
 
 **Agente sugerido:** `agent-release-qa`  
-**DoD:** sitio funcional + checklist QA aprobado + release tag.
+**DoD:** sitio funcional + checklist QA aprobado + release tag + despliegue en GitHub Pages operativo.
 
 ---
 
@@ -139,4 +156,11 @@ Cada subagente debe:
   - [ ] links externos chequeados
   - [ ] bloque de seguridad presente
   - [ ] fuentes citadas
+  - [ ] compatibilidad con GitHub Pages (rutas/enlaces estáticos)
 - **Cierre:** checklist DoD 100% cumplido.
+
+## Nota operativa (Git)
+- [ ] Registrar cada avance en commits chicos y descriptivos.
+- [ ] Mantener trazabilidad entre tarea del TODO y commit asociado.
+- [ ] Evitar cambios no relacionados en el mismo commit.
+- [ ] Mantener `*.pdf` y `*.zip` fuera del repo (salvo cambio explícito de política).

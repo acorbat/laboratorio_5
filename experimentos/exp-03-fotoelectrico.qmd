@@ -1,0 +1,18 @@
+---
+title: "Experimento 3 — Efecto fotoeléctrico"
+---
+
+## Resumen
+Determinación experimental de magnitudes asociadas al efecto fotoeléctrico.
+
+## Recursos
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía de la práctica](http://materias.df.uba.ar/l5a2023c1/files/2012/07/fotoelec.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Notas sobre amplificadores lock-in](http://materias.df.uba.ar/l5a2023c1/files/2012/07/AboutLockinAmpl.pdf)
+
+## Seguridad asociada
+
+- [Normas generales de laboratorio](http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf)
+
+## Fuente original
+Ver inventario en `materials/_index/sources_manifest_guias.csv`.

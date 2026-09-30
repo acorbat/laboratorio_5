@@ -1,0 +1,26 @@
+---
+title: "Estado de materiales"
+---
+
+Esta sección resume disponibilidad y salud de enlaces.
+
+## Fuentes de seguimiento
+
+- [Manifest global](../materials/_index/sources_manifest.csv)
+- [Manifest guías](../materials/_index/sources_manifest_guias.csv)
+- [Manifest seguridad](../materials/_index/sources_manifest_seguridad.csv)
+- [Manifest material adicional](../materials/_index/sources_manifest_parciales.csv)
+- [Resumen legible](../materials/_index/materials_summary.md)
+
+## Enlaces con problemas (último relevamiento)
+
+- <span class="badge badge-roto">Roto</span> https://nube.df.uba.ar/index.php/s/iYdGZDmH3jBAkEY (404)
+- <span class="badge badge-roto">Error</span> https://nube.df.uba.ar/index.php/s/2ZBQjkK9N4piMoG (500)
+- <span class="badge badge-roto">Roto</span> https://legacy.imagemagick.org/Usage/convolve/ (404)
+- <span class="badge badge-roto">Roto</span> https://nube.df.uba.ar/index.php/s/Pzebc7ckoWBXAQM (404)
+- <span class="badge badge-roto">Roto</span> https://nube.df.uba.ar/index.php/s/7nZ8F3fQo6riF73 (404)
+- <span class="badge badge-roto">Roto</span> https://nube.df.uba.ar/index.php/s/4fJ74ZpobDSTXbA (404)
+
+::: {.small-muted}
+Actualizar estos datos ejecutando `scripts/sync_l5_materials.py --sections guias,seguridad,parciales --download --check-links`.
+:::

@@ -1,0 +1,20 @@
+---
+title: "Material adicional"
+---
+
+Recursos complementarios (instrumentación, análisis, ejemplos de código, notas varias).
+
+## Recursos
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Control de instrumentos desde Python](http://materias.df.uba.ar/l5a2019v/files/2019/01/Control-de-instrumentos-desde-Python.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Clase de adquisición](http://materias.df.uba.ar/l5a2020v/files/2020/01/20200128_adquisicion.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Intro Estadística](http://materias.df.uba.ar/labo5a2015c1/files/2015/04/IntroEstadistica.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Checklist informe](http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/07/checklist-informe.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [Real World Instrumentation with Python](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Python/Real%20World%20Instrumentation%20with%20Python%20-%20Automated%20Data%20Acquisition%20and%20Control%20Systems%20%282010%29.pdf)
+- <span class="badge badge-pdf">ZIP</span><span class="badge badge-externo">Externo</span> [Demo aliasing](http://materias.df.uba.ar/l4b2021c2/files/2021/03/demo_aliasing.zip)
+
+## Enlaces con problemas detectados
+
+::: {.aviso-roto}
+Algunos recursos externos de material adicional están caídos (404/500). Ver detalle en [Estado de materiales](../estado-materiales/index.qmd).
+:::

@@ -1,0 +1,19 @@
+---
+title: "Experimento 5 — Fluidos"
+---
+
+## Resumen
+Estudio experimental de dinámica de fluidos y visualización de flujo.
+
+## Recursos
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía de la práctica](http://materias.df.uba.ar/l5a2023c1/files/2012/07/Gu%C3%ADa-fluidos1.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Preparación de muestras](http://materias.df.uba.ar/l5c2024c2/files/2024/08/Preparaci%C3%B3n-de-muestras-Pinzas.pdf)
+- <span class="badge badge-externo">Externo</span> [PIVlab Manual](https://pivlab.blogspot.com/p/blog-page_19.html)
+
+## Seguridad asociada
+
+- [Normas generales de laboratorio](http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf)
+
+## Fuente original
+Ver inventario en `materials/_index/sources_manifest_guias.csv`.

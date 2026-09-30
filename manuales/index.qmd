@@ -1,0 +1,16 @@
+---
+title: "Manuales"
+---
+
+Sección dedicada a manuales de equipos e instrumental.
+
+## Manuales principales (MVP)
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [CCS200 Manual](http://materias.df.uba.ar/l5a2022c1/files/2022/03/CCS200-Manual.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [SKDAV/M Manual](http://materias.df.uba.ar/l5a2023c1/files/2012/07/SKDAV_M-Manual.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [EDU-OT3 Manual](http://materias.df.uba.ar/l5a2023c1/files/2012/07/EDU-OT3_M-EnglishManual1.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [PMT 1P28 datasheet](http://materias.df.uba.ar/l5a2023c1/files/2012/07/1P28.pdf)
+
+## Nota
+
+En próximas iteraciones se agregarán fichas por equipo (uso, calibración, errores frecuentes).

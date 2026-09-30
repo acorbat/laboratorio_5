@@ -26,6 +26,21 @@ Ya existe una primera etapa de ingesta de materiales:
   - `materials/_index/sources_manifest_parciales.csv`
   - `materials/_index/materials_summary.md`
 
+Además:
+- El proyecto ahora está **trackeado con Git**.
+- El sitio se hostea en **GitHub Pages** (por el momento).
+- El stack del sitio es **Quarto**.
+
+Base Quarto ya creada:
+- `_quarto.yml`
+- páginas `.qmd` para secciones principales
+- workflow de publicación: `.github/workflows/quarto-publish.yml`
+
+Restricción actual de repositorio:
+- se ignoran `*.pdf` y `*.zip` en Git,
+- en fase MVP se prioriza enlazar a URLs fuente externas,
+- en Fase 2 esos PDFs se migrarán gradualmente a texto web.
+
 El esqueleto de la web ya está armado y se puede producir una v1 funcional.
 
 ---
@@ -75,6 +90,22 @@ El esqueleto de la web ya está armado y se puede producir una v1 funcional.
 - No eliminar referencias externas solo por estar en inglés.
 - Si un enlace está roto: marcarlo explícitamente y proponer alternativa.
 - En migración de PDF, no perder tablas, fórmulas, figuras ni advertencias de seguridad.
+- Trabajar con flujo Git:
+  - cambios pequeños y trazables,
+  - mensajes de commit claros,
+  - evitar mezclar refactors con cambios de contenido.
+- Convenciones Quarto:
+  - contenido en `.qmd`,
+  - navegación declarada en `_quarto.yml`,
+  - recursos estáticos controlados con `project.resources`,
+  - `/docentes` pública pero sin entrada en `navbar`.
+- Mantener compatibilidad con GitHub Pages:
+  - render a `docs/` vía Quarto,
+  - rutas relativas correctas,
+  - evitar dependencias de servidor no soportadas por Pages.
+- No exigir render local en entorno de desarrollo de agentes:
+  - la validación/render se hace directamente en GitHub Actions/Pages,
+  - evitar agregar pasos de build local obligatorios en el flujo.
 
 ---
 
@@ -106,3 +137,6 @@ Una tarea se considera completa si:
 - Plan de trabajo detallado: `TODO.md`
 - Inventario/estado técnico de materiales: `materials/_index/`
 - Script de sincronización: `scripts/sync_l5_materials.py`
+- Configuración Quarto: `_quarto.yml`
+- Estilos base: `styles.css`
+- Publicación GitHub Pages: `.github/workflows/quarto-publish.yml`

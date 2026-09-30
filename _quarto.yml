@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - materials/**
+    - assets/**
+
+website:
+  title: "Laboratorio 5"
+  description: "Repositorio de material docente y de cursada"
+  navbar:
+    left:
+      - text: Inicio
+        href: index.qmd
+      - text: Experimentos
+        href: experimentos/index.qmd
+      - text: Seguridad
+        href: seguridad/index.qmd
+      - text: Material adicional
+        href: material-adicional/index.qmd
+      - text: Manuales
+        href: manuales/index.qmd
+      - text: Estado de materiales
+        href: estado-materiales/index.qmd
+  page-footer:
+    left: "Laboratorio 5 — Departamento de Física"
+    right: "Sitio generado con Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    lang: es

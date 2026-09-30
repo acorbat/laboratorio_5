@@ -1,0 +1,19 @@
+---
+title: "Experimento 2 — Descarga glow"
+---
+
+## Resumen
+Estudio de descarga glow y su caracterización experimental.
+
+## Recursos
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía](http://materias.df.uba.ar/l5a2023v/files/2023/02/glow_Gu%C3%ADa.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Apunte I](http://materias.df.uba.ar/l5a2023v/files/2023/02/glow_Complemento1.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Apunte II](http://materias.df.uba.ar/l5a2023v/files/2023/02/glow_Complemento2.pdf)
+
+## Seguridad asociada
+
+- [Normas generales de laboratorio](http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf)
+
+## Fuente original
+Ver inventario en `materials/_index/sources_manifest_guias.csv`.
