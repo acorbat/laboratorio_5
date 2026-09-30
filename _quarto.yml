@@ -8,6 +8,7 @@ project:
 website:
   title: "Laboratorio 5"
   description: "Repositorio de material docente y de cursada"
+  logo: assets/logo_df.jpg
   navbar:
     left:
       - text: Inicio
