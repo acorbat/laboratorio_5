@@ -9,6 +9,21 @@ website:
   title: "Laboratorio 5"
   description: "Repositorio de material docente y de cursada"
   logo: assets/logo_df.jpg
+  sidebar:
+    - id: experimentos
+      title: "Experimentos"
+      style: "docked"
+      search: false
+      collapse-level: 1
+      contents:
+        - experimentos/index.qmd
+        - experimentos/exp-01-conteo-fotones.qmd
+        - experimentos/exp-02-descarga-glow.qmd
+        - experimentos/exp-03-fotoelectrico.qmd
+        - experimentos/exp-04-espectroscopia.qmd
+        - experimentos/exp-05-fluidos.qmd
+        - experimentos/exp-06-laser.qmd
+        - experimentos/exp-07-nuclear-particulas.qmd
   navbar:
     left:
       - text: Inicio
