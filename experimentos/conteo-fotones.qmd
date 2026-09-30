@@ -3,9 +3,74 @@ title: "Conteo de fotones"
 ---
 
 ## Resumen
-Medición de estadísticas de conteo de fotones con PMTs.
+La guía de conteo de fotones presenta esta práctica como una introducción experimental a la detección óptica en régimen de baja intensidad. El eje central es estudiar cómo una señal luminosa puede describirse estadísticamente a partir de eventos discretos de detección, y cómo esa estadística cambia según la naturaleza de la fuente.
 
-## Recursos
+La práctica articula tres planos: (i) física de detección en fotomultiplicadores, (ii) estadística de fotocuentas, y (iii) adquisición digital de señales temporales con instrumentación conectada a computadora.
+
+## Objetivos de aprendizaje
+
+De acuerdo con la guía, los objetivos incluyen:
+
+- distinguir fuentes de luz por su estadística de conteo;
+- comprender mediciones de flujos de luz muy bajos;
+- caracterizar capacidades y limitaciones de equipos de detección y conteo de eventos;
+- relacionar instrumentación temporal (osciloscopio/PC) con análisis estadístico;
+- introducir herramientas de adquisición y procesamiento digital de señales.
+
+## Desarrollo conceptual del fenómeno (según guía)
+
+### Detección óptica y fotocuentas
+
+La guía describe al fotomultiplicador (PMT) como un sistema con fotocátodo, cadena de dinodos y ánodo. En ese marco, la absorción de luz produce fotoelectrones, y la multiplicación secundaria permite obtener pulsos eléctricos detectables.
+
+La interpretación física relevante es que, en condiciones adecuadas, cada pulso puede asociarse a una fotocuenta. Así, la medición deja de ser solamente una corriente analógica promedio y pasa a ser una secuencia de eventos discretos.
+
+### Régimen analógico y régimen digital
+
+Un punto central de la guía es la distinción entre:
+
+- **régimen analógico**: alta superposición de pulsos, lectura en términos de señal continua fluctuante;
+- **régimen de conteo (digital)**: pulsos separados temporalmente, aptos para conteo evento a evento.
+
+La transición entre ambos regímenes depende de la tasa de llegada de eventos y de la escala temporal de lectura del sistema de detección.
+
+### Estadística de fotocuentas y tipo de fuente
+
+La guía enfatiza que el conteo de eventos permite inferir propiedades estadísticas de la fuente luminosa.
+
+A nivel conceptual, se presentan casos prototípicos:
+
+- fuentes con comportamiento tipo Poisson en condiciones de independencia temporal;
+- fuentes con fluctuaciones de intensidad (luz caótica/térmica) que modifican la distribución de cuentas según el tiempo de integración relativo al tiempo característico de fluctuación;
+- discusión de límites instrumentales y de resolución temporal que condicionan la estadística observada.
+
+### Marco semiclásico de detección
+
+La guía introduce una lectura semiclásica en la cual la luz se trata mediante intensidad fluctuante y la detección mediante procesos discretos de fotoionización/fotoconteo. El objetivo no es solo contar, sino vincular la distribución de cuentas con el modelo físico que describe la fuente y el detector.
+
+## Ejes de exploración experimental
+
+En la guía, la práctica se organiza como exploración de:
+
+- condiciones de operación del PMT y su impacto en los pulsos detectados;
+- criterios de discriminación de eventos y sus efectos en la estadística final;
+- relación entre ventana temporal de conteo y estructura temporal de la fuente;
+- comparación entre distribuciones observadas y comportamientos esperados para distintas clases de iluminación.
+
+## Preguntas orientadoras
+
+- ¿Qué rasgos de la distribución de fotocuentas diferencian fuentes con distinta estadística?
+- ¿Cómo intervienen la resolución temporal y el criterio de discriminación en el conteo observado?
+- ¿Qué información física adicional aparece al pasar de una lectura analógica a conteo de eventos?
+- ¿En qué condiciones la instrumentación domina la forma de la distribución medida?
+
+## Seguridad específica
+
+- Manipular alta tensión y electrónica del PMT solo bajo protocolo de laboratorio.
+- Preservar condiciones de operación recomendadas para detector e instrumentación.
+- Integrar normas generales del laboratorio y de radiación cuando corresponda al montaje.
+
+## Recursos y referencias
 
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía de la práctica](http://materias.df.uba.ar/l5a2023c1/files/2012/07/guia_conteo.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Info sobre conteo con PMTs](http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/09/PMT_photoncounting.pdf)
@@ -19,4 +84,7 @@ Medición de estadísticas de conteo de fotones con PMTs.
 - [Seguridad en radiación (si se usa fuente)](http://materias.df.uba.ar/l5a2023c1/files/2023/03/SeguridadRadiacion.pdf)
 
 ## Fuente original
-Ver inventario en `materials/_index/sources_manifest_guias.csv`.
+
+- Manifest: `materials/_index/sources_manifest_guias.csv`
+- Guía principal: `http://materias.df.uba.ar/l5a2023c1/files/2012/07/guia_conteo.pdf`
+- Extracción de apoyo (skill local): `.agents/skills/l5-practica-migrator/work/conteo-fotones-guia.txt`
