@@ -1,14 +1,12 @@
 ---
-title: "Experimento 4 — Espectroscopía"
+title: "Espectroscopia de Zeeman"
 ---
 
 ## Resumen
-Caracterización espectral y uso de instrumental de espectroscopía.
+Estudio del efecto Zeeman y montaje experimental asociado.
 
 ## Recursos
 
-- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía de la práctica](http://materias.df.uba.ar/l5a2023c1/files/2012/07/Practica-de-Espectroscopia.pdf)
-- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Manual CCS200](http://materias.df.uba.ar/l5a2022c1/files/2022/03/CCS200-Manual.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Manual SKDAV/M](http://materias.df.uba.ar/l5a2023c1/files/2012/07/SKDAV_M-Manual.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [Manual EDU-OT3](http://materias.df.uba.ar/l5a2023c1/files/2012/07/EDU-OT3_M-EnglishManual1.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Red Pitaya: notas de uso](http://materias.df.uba.ar/l5b2024c1/files/2024/05/Notas_sobre_el_uso_de_la_RedPitaya_labo5.pdf)

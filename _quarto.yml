@@ -23,7 +23,8 @@ website:
         - experimentos/espectroscopia-zeeman.qmd
         - experimentos/fluidos.qmd
         - experimentos/laser.qmd
-        - experimentos/nuclear-particulas.qmd
+        - experimentos/muones.qmd
+        - experimentos/nuclear.qmd
         - experimentos/faraday.qmd
   navbar:
     left:

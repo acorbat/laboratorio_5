@@ -6,13 +6,16 @@ title: "Experimentos"
 
 ## Prácticas
 
-1. [Conteo de fotones](exp-01-conteo-fotones.qmd)
-2. [Descarga glow](exp-02-descarga-glow.qmd)
-3. [Efecto fotoeléctrico](exp-03-fotoelectrico.qmd)
-4. [Espectroscopía](exp-04-espectroscopia.qmd)
-5. [Fluidos](exp-05-fluidos.qmd)
-6. [Láser](exp-06-laser.qmd)
-7. [Nuclear y partículas](exp-07-nuclear-particulas.qmd)
+- [Conteo de fotones](conteo-fotones.qmd)
+- [Descarga glow](descarga-glow.qmd)
+- [Efecto fotoeléctrico](fotoelectrico.qmd)
+- [Espectroscopia difractiva](espectroscopia-difractiva.qmd)
+- [Espectroscopia de Zeeman](espectroscopia-zeeman.qmd)
+- [Fluidos](fluidos.qmd)
+- [Láser](laser.qmd)
+- [Muones](muones.qmd)
+- [Nuclear](nuclear.qmd)
+- [Faraday](faraday.qmd)
 
 ::: {.small-muted}
 Estas páginas están en modo MVP y se irán enriqueciendo con migración PDF → texto.

@@ -1,19 +1,16 @@
 ---
-title: "Experimento 7 — Nuclear y partículas"
+title: "Nuclear"
 ---
 
 ## Resumen
-Prácticas de detección, espectroscopía gamma, muones y técnicas nucleares.
+Prácticas de detección y espectroscopía gamma con técnicas nucleares.
 
 ## Recursos
 
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía nuclear](http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/09/Guia_Nuclear_completa_2025.pdf)
-- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Guía muones](http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/08/practica_muones.pdf)
-- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Presentación vida media del muón](http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/08/Vida-media-del-muon_dario.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [ORTEC Gamma](https://www.ortec-online.com/-/media/ametekortec/third%20edition%20experiments/3-gamma-ray-spectroscopy-using-nai-tl.pdf?la=en)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [ORTEC Compton](https://www.ortec-online.com/-/media/ametekortec/third%20edition%20experiments/10-compton-scattering.pdf?la=en)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [ORTEC Coincidencias](https://www.ortec-online.com/-/media/ametekortec/third%20edition%20experiments/13-gamma-gamma-coincidence-angular-correlation.pdf?la=en)
-- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [PDG Cosmic Rays](https://pdg.lbl.gov/2022/reviews/rpp2022-rev-cosmic-rays.pdf)
 
 ## Seguridad asociada
 

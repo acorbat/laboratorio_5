@@ -1,0 +1,19 @@
+---
+title: "Muones"
+---
+
+## Resumen
+Medición de la vida media del muón y análisis de eventos de detección.
+
+## Recursos
+
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-obligatorio">Obligatorio</span> [Guía de la práctica](http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/08/practica_muones.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Presentación sobre la vida media del muón](http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/08/Vida-media-del-muon_dario.pdf)
+- <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [PDG Cosmic Rays](https://pdg.lbl.gov/2022/reviews/rpp2022-rev-cosmic-rays.pdf)
+
+## Seguridad asociada
+
+- [Normas generales de laboratorio](http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf)
+
+## Fuente original
+Ver inventario en `materials/_index/sources_manifest_guias.csv`.

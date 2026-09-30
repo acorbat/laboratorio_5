@@ -1,0 +1,13 @@
+---
+title: "Faraday"
+---
+
+## Estado
+
+Esta práctica está **en construcción**.
+
+Aún no se encontró ni consolidó el material fuente. Cuando esté disponible, se agregará aquí la guía, referencias, seguridad asociada y recursos complementarios.
+
+## Fuente original
+
+Pendiente de incorporación.
