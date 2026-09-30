@@ -16,3 +16,7 @@ Material obligatorio de seguridad para cursar Laboratorio 5.
 ## Recomendación
 
 Leer esta sección antes de iniciar cualquier práctica.
+
+## Fuente original
+- Manifest seguridad: [materials/_index/sources_manifest_seguridad.csv](../materials/_index/sources_manifest_seguridad.csv)
+- Índice unificado: [materials/_index/content_index.json](../materials/_index/content_index.json)

@@ -14,3 +14,7 @@ Sección dedicada a manuales de equipos e instrumental.
 ## Nota
 
 En próximas iteraciones se agregarán fichas por equipo (uso, calibración, errores frecuentes).
+
+## Fuente original
+- Manifest guías/manuales: [materials/_index/sources_manifest_guias.csv](../materials/_index/sources_manifest_guias.csv)
+- Índice unificado: [materials/_index/content_index.json](../materials/_index/content_index.json)

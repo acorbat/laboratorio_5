@@ -9,21 +9,21 @@ Este plan está orientado a ejecución por agentes de AI.
 - [x] Crear páginas base `.qmd` (inicio, secciones y experimentos).
 - [x] Definir estilos mínimos (`styles.css`) para badges/avisos.
 - [x] Crear workflow de despliegue a GitHub Pages.
-- [ ] Verificar despliegue en GitHub Pages (sin render local obligatorio) y corregir warnings reportados por CI.
+- [x] Verificar despliegue en GitHub Pages (sin render local obligatorio) y corregir warnings reportados por CI.
 
 ---
 
 ## FASE 1 — Sitio funcionando (MVP publicable)
 
 ### A. Inventario y estado real del contenido
-- [ ] Consolidar inventario desde manifests (`guias`, `seguridad`, `parciales`).
-- [ ] Priorizar enlaces externos en la web MVP (por política temporal de no versionar `*.pdf`/`*.zip`).
-- [ ] Marcar cada recurso con metadata:
-  - [ ] tipo (`guía`, `manual`, `paper`, `tesis`, `seguridad`, `adicional`)
-  - [ ] estado (`local`, `externo`, `roto`)
-  - [ ] experimento asociado
-  - [ ] criticidad (`obligatorio`, `recomendado`, `avanzado`)
-- [ ] Generar `content_index.json` único para render del sitio.
+- [x] Consolidar inventario desde manifests (`guias`, `seguridad`, `parciales`).
+- [x] Priorizar enlaces externos en la web MVP (por política temporal de no versionar `*.pdf`/`*.zip`).
+- [x] Marcar cada recurso con metadata:
+  - [x] tipo (`guía`, `manual`, `paper`, `tesis`, `seguridad`, `adicional`)
+  - [x] estado (`local`, `externo`, `roto`)
+  - [x] experimento asociado
+  - [x] criticidad (`obligatorio`, `recomendado`, `avanzado`)
+- [x] Generar `content_index.json` único para render del sitio.
 
 **Agente sugerido:** `agent-content-indexer`  
 **DoD:** índice completo + conteos por sección + lista de links rotos.
@@ -49,10 +49,10 @@ Este plan está orientado a ejecución por agentes de AI.
 ---
 
 ### C. Integración de enlaces y UX básica
-- [ ] Agregar badges visuales: `PDF`, `Externo`, `Obligatorio`, `En inglés`, `Roto`.
-- [ ] Mostrar aviso cuando un recurso está caído + alternativa (si existe).
-- [ ] Mostrar “Última actualización” por página.
-- [ ] Agregar bloque “Fuente original” para cada recurso.
+- [x] Agregar badges visuales: `PDF`, `Externo`, `Obligatorio`, `En inglés`, `Roto`.
+- [x] Mostrar aviso cuando un recurso está caído + alternativa (si existe).
+- [x] Mostrar “Última actualización” por página.
+- [x] Agregar bloque “Fuente original” para cada recurso.
 
 **Agente sugerido:** `agent-link-ux`  
 **DoD:** metadata homogénea en todas las páginas.
@@ -60,9 +60,9 @@ Este plan está orientado a ejecución por agentes de AI.
 ---
 
 ### D. QA y publicación de v1
-- [ ] Validar navegación de estudiante (flujo completo).
-- [ ] Validar clasificación de material con criterio docente.
-- [ ] Revisar links rotos críticos (guías/seguridad).
+- [x] Validar navegación de estudiante (flujo completo).
+- [x] Validar clasificación de material con criterio docente.
+- [x] Revisar links rotos críticos (guías/seguridad).
 - [x] Preparar despliegue en GitHub Pages:
   - [x] confirmar estructura estática compatible (`index.html`/ruta base),
   - [x] verificar rutas relativas de assets y páginas,
@@ -139,7 +139,7 @@ Cada subagente debe:
 ---
 
 ## Priorización recomendada
-1. [ ] Completar **FASE 1** (web operativa v1).
+1. [x] Completar **FASE 1** (web operativa v1).
 2. [ ] Migración por lotes:
    - [ ] Lote A: Exp 1, 3, 6
    - [ ] Lote B: Exp 4, 7

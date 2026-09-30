@@ -17,3 +17,7 @@ Sección pública de apoyo docente.
 
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Checklist informe](http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/07/checklist-informe.pdf)
 
+## Fuente original
+- Manifest material adicional: [materials/_index/sources_manifest_parciales.csv](../materials/_index/sources_manifest_parciales.csv)
+- Índice unificado: [materials/_index/content_index.json](../materials/_index/content_index.json)
+
