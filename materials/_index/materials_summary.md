@@ -1,0 +1,398 @@
+# Resumen de materiales (Labo 5)
+
+Generado: 2026-09-30T16:04:33.774550+00:00
+
+## Sección: guias
+- Total enlaces indexados: 53
+- Archivos descargables: 33
+- Referencias externas/no archivo: 20
+- Enlaces con problemas: 0
+
+### Archivos descargables
+- [MEDIA] Capítulo sobre los rayos cósmicos del PDG  
+  - URL: https://pdg.lbl.gov/2022/reviews/rpp2022-rev-cosmic-rays.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/rpp2022-rev-cosmic-rays.pdf`
+- [ALTA] [guía de la práctica]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/guia_conteo.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_01_conteo_fotones/files/guia_conteo.pdf`
+- [MEDIA] Info sobre conteo de eventos con PMTs  
+  - URL: http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/09/PMT_photoncounting.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_01_conteo_fotones/files/PMT_photoncounting.pdf`
+- [MEDIA] [Paper Martinez Ricci et. al]  
+  - URL: http://users.df.uba.ar/bragas/Labo5_1er2011/MartinezRicci_photoncountingoscilloscope_AmJPhys_75_707_2007.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_01_conteo_fotones/files/MartinezRicci_photoncountingoscilloscope_AmJPhys_75_707_2007.pdf`
+- [MEDIA] [Paper Koczyk et al.]  
+  - URL: http://users.df.uba.ar/bragas/Labo5_1er2011/Koczyk_photon%20counting%20statistics_AmJPhys_64_241_1996.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_01_conteo_fotones/files/Koczyk_photon counting statistics_AmJPhys_64_241_1996.pdf`
+- [MEDIA] [hoja de datos del fotomultiplicador]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/1P28.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_01_conteo_fotones/files/1P28.pdf`
+- [ALTA] [Guía]  
+  - URL: http://materias.df.uba.ar/l5a2023v/files/2023/02/glow_Gu%C3%ADa.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_02_descarga_glow/files/glow_Gu_a.pdf`
+- [MEDIA] [Apunte I]  
+  - URL: http://materias.df.uba.ar/l5a2023v/files/2023/02/glow_Complemento1.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_02_descarga_glow/files/glow_Complemento1.pdf`
+- [MEDIA] [Apunte II]  
+  - URL: http://materias.df.uba.ar/l5a2023v/files/2023/02/glow_Complemento2.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_02_descarga_glow/files/glow_Complemento2.pdf`
+- [ALTA] [guía de la práctica]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/fotoelec.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_03_fotoelectrico/files/fotoelec.pdf`
+- [MEDIA] [notas sobre amplificadores lock-in]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/AboutLockinAmpl.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_99_por_clasificar/files/AboutLockinAmpl.pdf`
+- [ALTA] [guía de la práctica]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/Practica-de-Espectroscopia.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_04_espectroscopia/files/Practica-de-Espectroscopia.pdf`
+- [ALTA] [manual del espectrómetro Thorlabs CCS200]  
+  - URL: http://materias.df.uba.ar/l5a2022c1/files/2022/03/CCS200-Manual.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_04_espectroscopia/files/CCS200-Manual.pdf`
+- [MEDIA] [Propiedades ópticas de la clorofila]  
+  - URL: http://materias.df.uba.ar/l5b2024c2/files/2024/08/Medir-el-espectro-de-la-clorofila.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_04_espectroscopia/files/Medir-el-espectro-de-la-clorofila.pdf`
+- [MEDIA] [Termometría de radiación]  
+  - URL: http://materias.df.uba.ar/l5b2024c2/files/2024/08/Termometr%C3%ADa-de-radiaci%C3%B3n.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/Termometr_a-de-radiaci_n.pdf`
+- [ALTA] [manual de uso SKDAV]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/SKDAV_M-Manual.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_04_espectroscopia/files/SKDAV_M-Manual.pdf`
+- [MEDIA] [tesis de Noelia Fernández]  
+  - URL: http://users.df.uba.ar/schmiegelow/materias/labo5_2017v/NFernandez_Tesis_2017.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_99_por_clasificar/files/NFernandez_Tesis_2017.pdf`
+- [MEDIA] notas sobre el uso  
+  - URL: http://materias.df.uba.ar/l5b2024c1/files/2024/05/Notas_sobre_el_uso_de_la_RedPitaya_labo5.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_04_espectroscopia/files/Notas_sobre_el_uso_de_la_RedPitaya_labo5.pdf`
+- [MEDIA] [referencias útiles]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/Referencias-para-la-p%C3%A1ctica-de-Espectroscop%C3%ADa-L%C3%A1ser.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_04_espectroscopia/files/Referencias-para-la-p_ctica-de-Espectroscop_a-L_ser.pdf`
+- [ALTA] [guía de la práctica]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/Gu%C3%ADa-fluidos1.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_05_fluidos/files/Gu_a-fluidos1.pdf`
+- [ALTA] [guía de la práctica]  
+  - URL: http://materias.df.uba.ar/l5a2024c1/files/2024/03/I-Guia_Laser-labo_5.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_06_laser/files/I-Guia_Laser-labo_5.pdf`
+- [MEDIA] [notas sobre diodos de bombeo]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/Notas-sobre-diodos-de-bombeo.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_06_laser/files/Notas-sobre-diodos-de-bombeo.pdf`
+- [MEDIA] [formalismo de matrices ABDC. Notas sobre cavidades estables]  
+  - URL: http://materias.df.uba.ar/l5a2024c1/files/2024/03/II-FormalismoABCD_Laser-labo_5.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_06_laser/files/II-FormalismoABCD_Laser-labo_5.pdf`
+- [MEDIA] [apuntes sobre cavidades plegadas]  
+  - URL: http://materias.df.uba.ar/l5a2024c1/files/2024/03/III-Cavidad_plegada_Laser-labo_5.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_06_laser/files/III-Cavidad_plegada_Laser-labo_5.pdf`
+- [ALTA] [Guía nuclear actualizada 2c2025]  
+  - URL: http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/09/Guia_Nuclear_completa_2025.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/Guia_Nuclear_completa_2025.pdf`
+- [MEDIA] Gamma  
+  - URL: https://www.ortec-online.com/-/media/ametekortec/third%20edition%20experiments/3-gamma-ray-spectroscopy-using-nai-tl.pdf?la=en  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/3-gamma-ray-spectroscopy-using-nai-tl.pdf`
+- [MEDIA] Compton  
+  - URL: https://www.ortec-online.com/-/media/ametekortec/third%20edition%20experiments/10-compton-scattering.pdf?la=en  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/10-compton-scattering.pdf`
+- [MEDIA] Coincidencias  
+  - URL: https://www.ortec-online.com/-/media/ametekortec/third%20edition%20experiments/13-gamma-gamma-coincidence-angular-correlation.pdf?la=en  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/13-gamma-gamma-coincidence-angular-correlation.pdf`
+- [MEDIA] tesis de grado de Augusto Kielbowicz  
+  - URL: http://users.df.uba.ar/gpuentes/UBAThesis.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_99_por_clasificar/files/UBAThesis.pdf`
+- [ALTA] [manual de uso]  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2012/07/EDU-OT3_M-EnglishManual1.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_04_espectroscopia/files/EDU-OT3_M-EnglishManual1.pdf`
+- [MEDIA] Preparación de muestras  
+  - URL: http://materias.df.uba.ar/l5c2024c2/files/2024/08/Preparaci%C3%B3n-de-muestras-Pinzas.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_05_fluidos/files/Preparaci_n-de-muestras-Pinzas.pdf`
+- [ALTA] Guía  
+  - URL: http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/08/practica_muones.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/practica_muones.pdf`
+- [MEDIA] Presentación sobre la vida media del muón y cómo medirla  
+  - URL: http://asignaturas.df.uba.ar/l5-tiffenberg/wp-content/uploads/sites/76/2025/08/Vida-media-del-muon_dario.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/experiments/exp_07_nuclear_particulas/files/Vida-media-del-muon_dario.pdf`
+
+### Referencias externas / páginas
+- [BAJA] Saltar al contenido  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/guias/  
+  - Disponibilidad: ok (200)
+- [BAJA] Laboratorio 5 – Larotonda  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda  
+  - Disponibilidad: ok (200)
+- [BAJA] Principal  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/principal/  
+  - Disponibilidad: ok (200)
+- [BAJA] Programa  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/programa/  
+  - Disponibilidad: ok (200)
+- [BAJA] Cronograma  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/cronograma/  
+  - Disponibilidad: ok (200)
+- [BAJA] Grupos  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/grupos/  
+  - Disponibilidad: ok (200)
+- [BAJA] Material Adicional  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/parciales/  
+  - Disponibilidad: ok (200)
+- [BAJA] Seguridad  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/seguridad/  
+  - Disponibilidad: ok (200)
+- [BAJA] (sin texto)  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/  
+  - Disponibilidad: ok (200)
+- [BAJA] esta carpeta  
+  - URL: https://drive.google.com/drive/folders/1sqipPSqsQYbopn-rxhbmRB6uS_pJ0wuA  
+  - Disponibilidad: ok (200)
+- [BAJA] [página del fabricante del equipo de espectroscopía DAVS (Thorlabs)]  
+  - URL: https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=5393&pn=SKDAV/M  
+  - Disponibilidad: ok (200)
+- [BAJA] video demostrativo  
+  - URL: https://www.youtube.com/watch?si=-CABFPtfUDo3Ne-e&v=330eYE75MYQ&feature=youtu.be  
+  - Disponibilidad: ok (200)
+- [BAJA] enlace  
+  - URL: https://doi.org/10.1364/JOSAB.5.001478  
+  - Disponibilidad: ok (200)
+- [BAJA] [manual de PIVlab]  
+  - URL: https://pivlab.blogspot.com/p/blog-page_19.html  
+  - Disponibilidad: ok (200)
+- [BAJA] ORTEC  
+  - URL: https://www.ortec-online.com/service-and-support/library/educational-experiments  
+  - Disponibilidad: ok (200)
+- [BAJA] [página del fabricante con algunos experimentos propuestos]  
+  - URL: https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6966  
+  - Disponibilidad: ok (200)
+- [BAJA] PDGLive Particle Summary:  
+  - URL: https://pdg.lbl.gov/2012/listings/contents_listings.html  
+  - Disponibilidad: ok (200)
+- [BAJA] Info sobre centelladores  
+  - URL: https://www.rp-photonics.com/scintillation_detectors.html  
+  - Disponibilidad: ok (200)
+- [BAJA] WordPress Appliance  
+  - URL: https://www.turnkeylinux.org/wordpress  
+  - Disponibilidad: ok (200)
+- [BAJA] TurnKey Linux  
+  - URL: https://www.turnkeylinux.org  
+  - Disponibilidad: ok (200)
+
+## Sección: parciales
+- Total enlaces indexados: 34
+- Archivos descargables: 6
+- Referencias externas/no archivo: 28
+- Enlaces con problemas: 6
+
+### Archivos descargables
+- [MEDIA] Demo de Osciloscopio en Python  
+  - URL: http://materias.df.uba.ar/l4b2021c2/files/2021/03/demo_aliasing.zip  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/parciales/files/demo_aliasing.zip`
+- [MEDIA] Clase de adquisicion de Agustin Corbat  
+  - URL: http://materias.df.uba.ar/l5a2020v/files/2020/01/20200128_adquisicion.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/parciales/files/20200128_adquisicion.pdf`
+- [MEDIA] Mini clase de Python  
+  - URL: http://materias.df.uba.ar/l5a2019v/files/2019/01/Control-de-instrumentos-desde-Python.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/parciales/files/Control-de-instrumentos-desde-Python.pdf`
+- [MEDIA] Charla de Estadística  
+  - URL: http://materias.df.uba.ar/labo5a2015c1/files/2015/04/IntroEstadistica.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/parciales/files/IntroEstadistica.pdf`
+- [MEDIA] Checklist para informes  
+  - URL: http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/07/checklist-informe.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/parciales/files/checklist-informe.pdf`
+- [MEDIA] link  
+  - URL: https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Python/Real%20World%20Instrumentation%20with%20Python%20-%20Automated%20Data%20Acquisition%20and%20Control%20Systems%20%282010%29.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/parciales/files/Real World Instrumentation with Python - Automated Data Acquisition and Control Systems _2010_.pdf`
+
+### Referencias externas / páginas
+- [BAJA] Saltar al contenido  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/parciales/  
+  - Disponibilidad: ok (200)
+- [BAJA] Laboratorio 5 – Larotonda  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda  
+  - Disponibilidad: ok (200)
+- [BAJA] Principal  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/principal/  
+  - Disponibilidad: ok (200)
+- [BAJA] Programa  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/programa/  
+  - Disponibilidad: ok (200)
+- [BAJA] Prácticas  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/guias/  
+  - Disponibilidad: ok (200)
+- [BAJA] Cronograma  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/cronograma/  
+  - Disponibilidad: ok (200)
+- [BAJA] Grupos  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/grupos/  
+  - Disponibilidad: ok (200)
+- [BAJA] Seguridad  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/seguridad/  
+  - Disponibilidad: ok (200)
+- [BAJA] (sin texto)  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/  
+  - Disponibilidad: ok (200)
+- [MEDIA] Introducción a LaTex  
+  - URL: https://nube.df.uba.ar/index.php/s/iYdGZDmH3jBAkEY  
+  - Disponibilidad: broken (404)
+- [MEDIA] Dossier sobre Símbolos, unidades, notación y constantes fundamentales  
+  - URL: https://nube.df.uba.ar/index.php/s/2ZBQjkK9N4piMoG  
+  - Disponibilidad: broken (404)
+- [BAJA] GitHub: Introducción a programación en Python para laboratorios  
+  - URL: https://marceluda.github.io/python-para-fisicos/tuto/labo2/  
+  - Disponibilidad: ok (200)
+- [BAJA] temas de instrumentación  
+  - URL: https://marceluda.github.io/python-para-fisicos/tuto/labo2/05_instrumentacion/  
+  - Disponibilidad: ok (200)
+- [BAJA] ESTE GITHUB  
+  - URL: https://github.com/marceluda/python-para-fisicos/tree/master/instrumentaci%C3%B3n  
+  - Disponibilidad: ok (200)
+- [BAJA] LINK  
+  - URL: https://github.com/diegoshalom/labosdf/  
+  - Disponibilidad: ok (200)
+- [BAJA] LINK  
+  - URL: http://materias.df.uba.ar/labo5ba2014c2/material-adicional/index.html  
+  - Disponibilidad: ok (200)
+- [BAJA] Página de los Laboratorios de Enseñanza  
+  - URL: http://www.laboratorios.df.uba.ar/  
+  - Disponibilidad: ok (200)
+- [BAJA] mantener un cuaderno de laboratorio  
+  - URL: http://users.df.uba.ar/bragas/Labo5_1er2011/Decalogo.htm  
+  - Disponibilidad: ok (200)
+- [BAJA] elaborar un informe  
+  - URL: http://users.df.uba.ar/bragas/Labo5_1er2011/Informes.htm  
+  - Disponibilidad: ok (200)
+- [BAJA] Tipos de datos usados por los principales lenguajes de programación  
+  - URL: https://en.wikipedia.org/wiki/C_data_types  
+  - Disponibilidad: ok (200)
+- [BAJA] Operador de Sobel  
+  - URL: https://en.wikipedia.org/wiki/Sobel_operator  
+  - Disponibilidad: ok (200)
+- [BAJA] Media móvil  
+  - URL: https://en.wikipedia.org/wiki/Moving_average  
+  - Disponibilidad: ok (200)
+- [MEDIA] Convolución 2D  
+  - URL: https://legacy.imagemagick.org/Usage/convolve/  
+  - Disponibilidad: broken (404)
+- [MEDIA] Aliasing  
+  - URL: https://nube.df.uba.ar/index.php/s/Pzebc7ckoWBXAQM  
+  - Disponibilidad: broken (404)
+- [MEDIA] Significado, uso y abuso del coeficiente de correlación R2  
+  - URL: https://nube.df.uba.ar/index.php/s/7nZ8F3fQo6riF73  
+  - Disponibilidad: broken (404)
+- [MEDIA] Principios de la detección Lock-in (Zurich Instruments)  
+  - URL: https://nube.df.uba.ar/index.php/s/4fJ74ZpobDSTXbA  
+  - Disponibilidad: broken (404)
+- [BAJA] WordPress Appliance  
+  - URL: https://www.turnkeylinux.org/wordpress  
+  - Disponibilidad: ok (200)
+- [BAJA] TurnKey Linux  
+  - URL: https://www.turnkeylinux.org  
+  - Disponibilidad: ok (200)
+
+### Enlaces a revisar (rotos/inaccesibles)
+- Introducción a LaTex -> https://nube.df.uba.ar/index.php/s/iYdGZDmH3jBAkEY [broken 404]
+- Dossier sobre Símbolos, unidades, notación y constantes fundamentales -> https://nube.df.uba.ar/index.php/s/2ZBQjkK9N4piMoG [broken 404]
+- Convolución 2D -> https://legacy.imagemagick.org/Usage/convolve/ [broken 404]
+- Aliasing -> https://nube.df.uba.ar/index.php/s/Pzebc7ckoWBXAQM [broken 404]
+- Significado, uso y abuso del coeficiente de correlación R2 -> https://nube.df.uba.ar/index.php/s/7nZ8F3fQo6riF73 [broken 404]
+- Principios de la detección Lock-in (Zurich Instruments) -> https://nube.df.uba.ar/index.php/s/4fJ74ZpobDSTXbA [broken 404]
+
+## Sección: seguridad
+- Total enlaces indexados: 17
+- Archivos descargables: 6
+- Referencias externas/no archivo: 11
+- Enlaces con problemas: 0
+
+### Archivos descargables
+- [ALTA] ver  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/seguridad/files/normas_LabSuperiores.pdf`
+- [ALTA] ver  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2023/03/Laserseguridad1.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/seguridad/files/Laserseguridad1.pdf`
+- [ALTA] ver  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2023/03/Normas-de-Seg-Clase-IV1.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/seguridad/files/Normas-de-Seg-Clase-IV1.pdf`
+- [ALTA] ver  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2023/03/Normas-generales-para-usar-sustancias-radiactivas.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/seguridad/files/Normas-generales-para-usar-sustancias-radiactivas.pdf`
+- [ALTA] ver  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2023/03/SeguridadRadiacion.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/seguridad/files/SeguridadRadiacion.pdf`
+- [ALTA] ver  
+  - URL: http://materias.df.uba.ar/l5a2023c1/files/2023/03/SegLabQyBAlumnos1.pdf  
+  - Estado: unchanged | Disponibilidad: ok (200)  
+  - Ruta local: `materials/seguridad/files/SegLabQyBAlumnos1.pdf`
+
+### Referencias externas / páginas
+- [BAJA] Saltar al contenido  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/seguridad/  
+  - Disponibilidad: ok (200)
+- [BAJA] Laboratorio 5 – Larotonda  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda  
+  - Disponibilidad: ok (200)
+- [BAJA] Principal  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/principal/  
+  - Disponibilidad: ok (200)
+- [BAJA] Programa  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/programa/  
+  - Disponibilidad: ok (200)
+- [BAJA] Prácticas  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/guias/  
+  - Disponibilidad: ok (200)
+- [BAJA] Cronograma  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/cronograma/  
+  - Disponibilidad: ok (200)
+- [BAJA] Grupos  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/grupos/  
+  - Disponibilidad: ok (200)
+- [BAJA] Material Adicional  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/parciales/  
+  - Disponibilidad: ok (200)
+- [BAJA] (sin texto)  
+  - URL: https://asignaturas.df.uba.ar/l5-larotonda/  
+  - Disponibilidad: ok (200)
+- [BAJA] WordPress Appliance  
+  - URL: https://www.turnkeylinux.org/wordpress  
+  - Disponibilidad: ok (200)
+- [BAJA] TurnKey Linux  
+  - URL: https://www.turnkeylinux.org  
+  - Disponibilidad: ok (200)
