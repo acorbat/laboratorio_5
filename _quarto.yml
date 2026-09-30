@@ -24,7 +24,6 @@ website:
         - experimentos/exp-06-laser.qmd
         - experimentos/exp-07-nuclear-particulas.qmd
   navbar:
-    logo: assets/logo_df.jpg
     left:
       - text: Inicio
         href: index.qmd
@@ -40,6 +39,7 @@ website:
         href: estado-materiales/index.qmd
   page-footer:
     left: "Laboratorio 5 — Departamento de Física"
+    center: "<img src='assets/logo_df.jpg' alt='Logo DF' style='height:40px; width:auto; vertical-align:middle; margin-right:10px;'/>"
     right: "Sitio generado con Quarto"
 
 format:
