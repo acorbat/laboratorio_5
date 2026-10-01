@@ -1,0 +1,46 @@
+---
+title: "<NOMBRE_PRACTICA>"
+---
+
+## Resumen
+
+<Resumen basado en la guía, evitando estilo receta>
+
+## Objetivos de aprendizaje
+
+- <Objetivo 1>
+- <Objetivo 2>
+- <Objetivo 3>
+
+## Desarrollo conceptual del fenómeno
+
+<Desarrollo fiel a la guía, priorizando explicación del fenómeno y contexto>
+
+## Ejes de exploración experimental
+
+- <Eje 1>
+- <Eje 2>
+- <Eje 3>
+
+## Preguntas orientadoras
+
+- ¿<Pregunta 1>?
+- ¿<Pregunta 2>?
+- ¿<Pregunta 3>?
+
+## Seguridad específica
+
+- <Norma / link 1>
+- <Norma / link 2>
+
+## Recursos y referencias
+
+- <Guía principal>
+- <Material complementario>
+- <Papers/tesis/manuales, si aplica>
+
+## Fuente original
+
+- Manifest: `materials/_index/sources_manifest_guias.csv`
+- Guía principal: <URL o referencia>
+- Estado de migración: <completa|parcial>

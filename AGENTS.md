@@ -38,8 +38,6 @@ Base Quarto ya creada:
 
 Restricción actual de repositorio:
 - se ignoran `*.pdf` y `*.zip` en Git,
-- en fase MVP se prioriza enlazar a URLs fuente externas,
-- en Fase 2 esos PDFs se migrarán gradualmente a texto web.
 
 El esqueleto de la web ya está armado y se puede producir una v1 funcional.
 
@@ -63,6 +61,7 @@ El esqueleto de la web ya está armado y se puede producir una v1 funcional.
 
 ### Fase 2: migración PDF → texto web
 - Subagente por experimento.
+- **Si existe guía de práctica, la prioridad es migrar esa guía completa y fielmente.**
 - Extraer texto e imágenes necesarias.
 - Integrar referencias y seguridad en cada página.
 - Mantener PDF fuente enlazado.
@@ -90,6 +89,11 @@ El esqueleto de la web ya está armado y se puede producir una v1 funcional.
 - No eliminar referencias externas solo por estar en inglés.
 - Si un enlace está roto: marcarlo explícitamente y proponer alternativa.
 - En migración de PDF, no perder tablas, fórmulas, figuras ni advertencias de seguridad.
+- **Regla pedagógica clave (obligatoria):**
+  - si existe guía de práctica, migrar prioritariamente su contenido completo y fiel;
+  - no redactar páginas como “instrucciones de receta” para el estudiante;
+  - no escribir texto que diga qué “deben hacer” los alumnos como checklist operativo;
+  - presentar el fenómeno, el contexto experimental y preguntas orientadoras para promover que estudiantes diseñen/propongan el experimento.
 - Trabajar con flujo Git:
   - cambios pequeños y trazables,
   - mensajes de commit claros,
@@ -106,7 +110,6 @@ El esqueleto de la web ya está armado y se puede producir una v1 funcional.
 - No exigir render local en entorno de desarrollo de agentes:
   - la validación/render se hace directamente en GitHub Actions/Pages,
   - evitar agregar pasos de build local obligatorios en el flujo.
-
 ---
 
 ## 7) Definición de “hecho” (DoD) para tareas típicas
@@ -115,6 +118,8 @@ Una tarea se considera completa si:
 - links internos y externos verificados,
 - bloque de seguridad presente cuando aplica,
 - fuente original citada,
+- en Fase 2, si hay guía, su migración textual es prioritaria y fiel,
+- el texto no está redactado como receta de pasos obligatorios para alumnos,
 - cambios reflejados en índices/manifests.
 
 ---

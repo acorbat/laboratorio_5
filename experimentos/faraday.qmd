@@ -2,12 +2,19 @@
 title: "Faraday"
 ---
 
-## Estado
+## Resumen
+Práctica en construcción. Aún no se dispone de guía consolidada para migración completa.
 
-Esta práctica está **en construcción**.
+## Objetivos de aprendizaje
 
-Aún no se encontró ni consolidó el material fuente. Cuando esté disponible, se agregará aquí la guía, referencias, seguridad asociada y recursos complementarios.
+- Introducir la interacción entre campo magnético y propagación de luz en medios materiales.
+- Reconocer variables experimentales asociadas a rotación de polarización.
+- Definir criterios de diseño experimental para futuras mediciones en laboratorio.
+
+## Recursos y referencias
+
+- Material pendiente de incorporación.
 
 ## Fuente original
 
-Pendiente de incorporación.
+- Estado: sin guía disponible actualmente.

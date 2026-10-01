@@ -141,10 +141,21 @@ Cada subagente debe:
 ## Priorización recomendada
 1. [x] Completar **FASE 1** (web operativa v1).
 2. [ ] Migración por lotes:
-   - [ ] Lote A: Exp 1, 3, 6
+   - [x] Lote A: Exp 1, 3, 6
    - [ ] Lote B: Exp 4, 7
    - [ ] Lote C: Exp 2, 5
 3. [ ] Migrar luego material adicional/manuales extensos.
+
+### Avance Fase 2 (ejecutado)
+- [x] Conteo de fotones migrado con corrección inicial de ecuaciones y anexo de transcripción completa.
+- [x] Migración automática de guías para: glow, fotoeléctrico, espectroscopia difractiva, fluidos, láser, muones y nuclear (con anexo de transcripción automática por práctica).
+- [x] Prácticas sin guía específica resueltas en versión simple: Zeeman y Faraday.
+- [x] Lista de preguntas de revisión interactiva generada en `materials/_index/migration_questions.md`.
+- [ ] Pendiente QA académico fino de contenido migrado.
+- [ ] Pendiente corrección manual de ecuaciones/sintaxis OCR en anexos automáticos.
+- [x] Manifiesto curado de archivos generado con nombres actuales y contenido (`materials/_index/files_manifest_curated.csv`).
+- [x] Registro de migración por skill (búsqueda por práctica) generado en `.agents/skills/l5-practica-migrator/work/matches/`.
+- [x] Re-migración de experimentos (excepto conteo-fotones como referencia) ejecutada con flujo del skill y transcripción automática asociada.
 
 ---
 

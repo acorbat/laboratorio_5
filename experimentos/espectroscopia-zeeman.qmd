@@ -3,19 +3,22 @@ title: "Espectroscopia de Zeeman"
 ---
 
 ## Resumen
-Estudio del efecto Zeeman y montaje experimental asociado.
+Página en versión parcial: no se identificó aún una guía específica de práctica para migración completa. Se conserva material técnico y referencias asociadas al montaje.
 
-## Recursos
+## Objetivos de aprendizaje
+
+- Reconocer el desdoblamiento Zeeman en términos de interacción campo magnético–niveles de energía.
+- Relacionar observación espectral con parámetros experimentales del montaje.
+- Identificar requerimientos instrumentales y limitaciones de resolución.
+
+## Recursos y referencias
 
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Manual SKDAV/M](http://materias.df.uba.ar/l5a2023c1/files/2012/07/SKDAV_M-Manual.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span><span class="badge badge-ingles">En inglés</span> [Manual EDU-OT3](http://materias.df.uba.ar/l5a2023c1/files/2012/07/EDU-OT3_M-EnglishManual1.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Red Pitaya: notas de uso](http://materias.df.uba.ar/l5b2024c1/files/2024/05/Notas_sobre_el_uso_de_la_RedPitaya_labo5.pdf)
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Referencias útiles](http://materias.df.uba.ar/l5a2023c1/files/2012/07/Referencias-para-la-p%C3%A1ctica-de-Espectroscop%C3%ADa-L%C3%A1ser.pdf)
 
-## Seguridad asociada
-
-- [Normas generales de laboratorio](http://materias.df.uba.ar/l5a2023c1/files/2023/03/normas_LabSuperiores.pdf)
-- [Normas de seguridad láser](http://materias.df.uba.ar/l5a2023c1/files/2023/03/Normas-de-Seg-Clase-IV1.pdf)
-
 ## Fuente original
-Ver inventario en `materials/_index/sources_manifest_guias.csv`.
+
+- Manifest: `materials/_index/sources_manifest_guias.csv`
+- Estado: sin guía específica identificada.

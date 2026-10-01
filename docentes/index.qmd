@@ -24,6 +24,40 @@ En las páginas de experimentos, la guía no debe convertirse en una “receta�
 
 Cuando exista guía de práctica, la prioridad de migración es **migrar su contenido completo y fiel**.
 
+## Lista de revisión post-migración automática
+
+Pendientes sugeridos para cierre docente (Fase 2):
+
+- Validar sintaxis matemática y ecuaciones en cada práctica migrada automáticamente.
+- Revisar y corregir errores OCR en secciones conceptuales y bibliografía.
+- Confirmar que el tono final de todas las prácticas evita formato “receta”.
+- Unificar notación física y convenciones de símbolos entre prácticas.
+- Definir qué anexos de transcripción automática permanecen visibles para estudiantes.
+
+### Prioridad recomendada
+
+1. Fotoeléctrico
+2. Láser
+3. Nuclear
+4. Muones
+5. Espectroscopia difractiva
+6. Descarga glow
+7. Fluidos
+
+### Pendientes detectados tras re-migración con skill
+
+- Reemplazar placeholders de objetivos en páginas generadas por marker (cuando aparezcan como "Completar con base fiel en la guía").
+- Corregir sintaxis matemática dañada por OCR/conversión en cada práctica.
+- Revisar cortes de línea, encabezados y bibliografía extraída automáticamente.
+- Verificar que imágenes migradas en `experimentos/assets/<slug>/` se visualicen correctamente.
+- Validar coherencia pedagógica final (evitar receta, priorizar fenómeno y preguntas orientadoras).
+
+### Referencias de apoyo para revisión
+
+- Preguntas de revisión: [materials/_index/migration_questions.md](../materials/_index/migration_questions.md)
+- QA de conteo (ejemplo): [materials/_index/qa_conteo_report.md](../materials/_index/qa_conteo_report.md)
+- Manifiesto curado de archivos: [materials/_index/files_manifest_curated.csv](../materials/_index/files_manifest_curated.csv)
+
 ## Material inicial
 
 - <span class="badge badge-pdf">PDF</span><span class="badge badge-externo">Externo</span> [Checklist informe](http://asignaturas.df.uba.ar/l5-larotonda/wp-content/uploads/sites/129/2026/07/checklist-informe.pdf)
